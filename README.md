@@ -1,3 +1,8 @@
+#声明：
+##此配置文件转载自https://github.com/amix/vimrc 
+##仅仅为了方便自己以后下载使用
+##若有原作者不同意，请联系删除
+
 ![VIM](https://dnp4pehkvoo6n.cloudfront.net/43c5af597bd5c1a64eb1829f011c208f/as/Ultimate%20Vimrc.svg)
 
 # The Ultimate vimrc
